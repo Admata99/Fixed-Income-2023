@@ -136,3 +136,6 @@ dev/
 
 # idea folder for pycharm
 .idea/
+
+.venvalt
+venvalt/
